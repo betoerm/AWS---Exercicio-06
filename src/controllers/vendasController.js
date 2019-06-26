@@ -1,3 +1,4 @@
+//venda{id, valor, lista[produto(id, quantidade)]}
 var itemDeVenda = [];
 
 exports.get = (req, res, next) => {
